@@ -24,3 +24,5 @@ add = function(x, y) {
 minus = function(x, y) {
   x - y
 }
+
+print(Sys.getenv("GITHUB_PAT"))
